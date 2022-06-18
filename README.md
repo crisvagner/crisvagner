@@ -1,4 +1,5 @@
-## Eai Tropa.. Eu sou o Crisvagner, estudante de programação.. meu hobby é Jogar Free Fire e desenvolver bots para o mercado de apostas e DayTrader, criando padrões probabilísticos, gerenciamentos e automatizando operações.
+## Eai Tropa 🖐️.. Eu sou o Crisvagner, estou aprendendo a desenvolver bots para o mercado de apostas e DayTrader, criando padrões probabilísticos, gerenciamentos e automatizando operações.. 🚀 Meu hobby é desenvolver esses bots e Jogar Free Fire 🕹️🔥
+
 <div align="center">
   <a href="https://github.com/crisvagner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crisvagner&show_icons=true&theme=dracula&include_all_commits=true&count_private="/> <img height="118" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisvagner&layout=compact&langs_count=7&theme=dracula"/>
