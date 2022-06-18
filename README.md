@@ -1,7 +1,7 @@
 ## Eai Tropa.. Eu sou o Crisvagner, estudante de programação.. meu hobby é Jogar Free Fire e desenvolver bots para o mercado de apostas e DayTrader, criando padrões probabilísticos, gerenciamentos e automatizando operações.
 <div align="center">
   <a href="https://github.com/crisvagner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crisvagner&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/> <img height="118" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisvagner&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crisvagner&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/> <img height="118" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisvagner&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -12,7 +12,6 @@
     <a href="https://instagram.com/crisvagnersd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="https://www.twitch.tv/crisvagnersd" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href="https://discord.com/invite/KRIZZ#5486" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/NAOFACOVIDEOS" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a>
 </div>
@@ -30,4 +29,7 @@
 [codesandbox => StopWatch](https://t19ryf.csb.app/)
 
 [codesandbox => App de Vendas no WhatsApp](https://1x1801.csb.app/)
+
+![Snake animation](https://github.com/crisvagner/crisvagner/blob/output/github-contribution-grid-snake.svg)
+
 </div>
