@@ -30,6 +30,6 @@
 
 [codesandbox => App de Vendas no WhatsApp](https://1x1801.csb.app/)
 
-![Snake animation](https://github.com/crisvagner/crisvagner/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
