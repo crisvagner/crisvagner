@@ -3,7 +3,7 @@
 <br/>
 
 <div>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=crisvagner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=crisvagner&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
 </div><br/>
 
 []()
@@ -26,7 +26,7 @@
 
 <br/>
 
-## Minhas Redes Sociais 
+## Minhas Redes Sociais:
 
 <div>
     <a href = "mailto:crisvagnersd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
