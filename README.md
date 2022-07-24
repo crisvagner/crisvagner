@@ -1,4 +1,10 @@
-## Olá! Eu sou o Crisvagner 🖐️ estou aprendendo a desenvolver bots para o mercado de apostas e daytrader, criando padrões probabilísticos, gerenciamentos e automatizando operações 🚀
+## Olá! Eu sou o Crisvagner 🖐️ estou iniciando na área de programação.. sei programar em Javascript e Python.. conheço um pouco sobre Express, Webpack, Gulp, Electron, Git, APIs para o Telegram.. ainda n estudei sobre Banco de Dados..
+<br/>
+
+## Estou criando uns Projetos em background usando bibliotecas de Automação e as ferramentas de frontAnd.. tudo rodando no Electron mas pretendo passar tudo pro Express apos estudar sobre algum BD SQl ou noSQl e fazer autenticação com hash.. depois fazer o deploy na Netlify pra testar e ver como fica na web🚀
+<br/>
+
+## OBS: A autenticação no Electron que estou usando é via biblioteca de Criptografia e Funções q faz o decrypt e o encrypt usando Chave e CPF com IV para formar a Data de Validade da Aplicação.. ainda é fragil mas tenho sistema de atualização, onde a aplicação para de funcionar após 6 meses.. assim é preciso baixar a nova versão onde poderá ser uma App WebView ou Site com BD e uma Segurança maior para o Usuario e para a Aplicação.. o Codigo Fonte fica Empacotado e Obscuro com o uso do Webpack, Gulp e uma biblioteca para proteger Codigo
 
 <br/>
 
@@ -34,7 +40,7 @@
     <a href="https://instagram.com/crisvagnersd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="https://www.twitch.tv/crisvagnersd" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/NAOFACOVIDEOS" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    <a href="https://www.youtube.com/AINDA-NAO-TENHO-VIDEOS" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a>
 </div>
 
