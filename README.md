@@ -35,18 +35,17 @@
 
 <br>
 
-<div class = "MyProjects">
-    <a href = "https://e2jrhi.csb.app/" target="_blank"><img align="center" alt="Chris_MyPortfolio" width="370" src="./images/MyPortfolio.png"></a>
-    <a href = "https://1x1801.csb.app/" target="_blank"><img align="center" alt="Chris_ScriptdeVendasWA" width="370" src="./images/ScriptdeVendasWA.png"></a>
-    <a href = "https://5kz1eg.csb.app/" target="_blank"><img align="center" alt="Chris_ToDoList" width="370" src="./images/ToDoList.png"></a>
-    <a href = "https://t19ryf.csb.app/" target="_blank"><img align="center" alt="Chris_Stopwatch" width="370" src="./images/Stopwatch.png"></a>
-    <a href = "https://ls5rti.csb.app/" target="_blank"><img align="center" alt="Chris_Site-Responsivo" width="370" src="./images/SiteResponsivo.png"></a>
+<div style="display: flex; flex-wrap: wrap">
+    <a style="margin: 7px" href = "https://e2jrhi.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_MyPortfolio" width="370" src="./images/MyPortfolio.png"></a>
+    <a style="margin: 7px" href = "https://1x1801.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_ScriptdeVendasWA" width="370" src="./images/ScriptdeVendasWA.png"></a>
+    <a style="margin: 7px" href = "https://5kz1eg.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_ToDoList" width="370" src="./images/ToDoList.png"></a>
+    <a style="margin: 7px" href = "https://t19ryf.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_Stopwatch" width="370" src="./images/Stopwatch.png"></a>
+    <a style="margin: 7px" href = "https://ls5rti.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_Site-Responsivo" width="370" src="./images/SiteResponsivo.png"></a>
 </div>
 
 <br>
 
 ## Minhas Redes Sociais:
-
 <div>
     <a href = "mailto:crisvagnersd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/crisvagner-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -58,16 +57,3 @@
 </div>
 
 ![Snake animation](https://github.com/crisvagner/crisvagner/blob/output/github-contribution-grid-snake.svg)
-
-<style>
-.MyProjects{
-  display: flex;
-  flex-wrap: wrap;
-  }
-a{
-  margin: 7px;
-}
-img{
-  cursor: pointer;
-}
-</style>
