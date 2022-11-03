@@ -1,4 +1,4 @@
-## Olá! Eu sou o Crisvagner, programador Python e Javascript 💻 <img align="center" alt="cris-Js" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="cris-Python" height="22" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## Olá! Eu sou o Crisvagner, freelancer👨‍💻 programador Python e Javascript 💻 <img align="center" alt="cris-Js" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="cris-Python" height="22" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <br>
 
