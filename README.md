@@ -6,7 +6,7 @@
 
 <br>
 
-## > Noções de Express, Empacotamento e Obfuscação de Código, Deploy e leio textos simples em Inglês 🤓
+## > Noções de Express, Deploy, Empacotamento e Obfuscação de Código, I read simple text in English 🤓
 
 <!-- <br>
 <br>
