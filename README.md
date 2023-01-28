@@ -2,11 +2,11 @@
 
 <br>
 
-## > Tenho conhecimentos em Git, RegEx, CSS, HTML, Electron, Puppeteer, Selenium, Shelljs, interpretação de documentação de APIs, Libs e Frameworks 📚
+## > Tenho conhecimentos em Git, RegEx, CSS, HTML, Electron, Puppeteer, Selenium, interpretação de documentação de APIs, Libs e Frameworks 📚
 
 <br>
 
-## > Noções de Express, Deploy, Empacotamento e Obfuscação de Código, I read simple text in English 🤓
+## > Noções de Express, Deploy, Empacotamento e Obfuscação de Código, I read simple text in English.
 
 <!-- <br>
 <br>
