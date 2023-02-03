@@ -62,9 +62,6 @@
     <a href="https://www.linkedin.com/in/crisvagner-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/eokrizz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.twitch.tv/eokrizz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/CANAL-ZERADO" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-    </a>
 </div>
 
 ![Snake animation](https://github.com/crisvagner/crisvagner/blob/output/github-contribution-grid-snake.svg)
