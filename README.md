@@ -2,15 +2,6 @@
 
 <br>
 
-## > Tenho conhecimentos em Git, RegEx, CSS, HTML, Electron, Puppeteer, Selenium, interpretação de documentação de APIs, Libs e Frameworks 📚
-
-<br>
-
-## > Noções de Express, Deploy, Empacotamento e Obfuscação de Código, I read simple text in English.
-
-<!-- <br>
-<br>
-
 ## ▶️ Dê uma olhada em meu Portfólio  <a href = "https://meusite.com/my-portfolio"><img align="center" alt="Meu Portfólio" src="https://img.shields.io/badge/My_Portfolio-1572B6?style=for-the-badge&logo=amp&logoColor=white" /></a> -->
 
 <br>
