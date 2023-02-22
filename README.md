@@ -1,8 +1,6 @@
-## Olá! Eu sou Crisvagner, freelancer👨‍💻 programador Python e Javascript 💻 <img align="center" alt="cris-Js" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="cris-Python" height="22" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## Olá! Eu sou Crisvagner, programador Freelancer - Python e Javascript <img align="center" alt="cris-Js" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="cris-Python" height="22" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<br>
-
-## ▶️ Dê uma olhada em meu Portfólio  <a href = "https://meusite.com/my-portfolio"><img align="center" alt="Meu Portfólio" src="https://img.shields.io/badge/My_Portfolio-1572B6?style=for-the-badge&logo=amp&logoColor=white" /></a> -->
+<!-- ## ▶️ Dê uma olhada em meu Portfólio  <a href = "https://meusite.com/my-portfolio"><img align="center" alt="Meu Portfólio" src="https://img.shields.io/badge/My_Portfolio-1572B6?style=for-the-badge&logo=amp&logoColor=white" /></a> -->
 
 <br>
 <br>
