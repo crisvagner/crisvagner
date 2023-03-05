@@ -20,7 +20,7 @@
 <br>
 <br>
 
-## Veja meus Projetos Pessoais 👇
+## Alguns projetos Front-End 👇
 
 <br>
 
@@ -28,12 +28,6 @@
     <a style="margin: 7px" href = "https://qc1lsk.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_StonezBots" width="370" height="170" src="./images/StonezBots.png"></a>
     <a style="margin: 7px" href = "https://e2jrhi.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_MyPortfolio" width="370" src="./images/MyPortfolio.png"></a>
 </div>
-
-<br>
-
-## Outros Projetos 👇
-
-<br>
 
 <div style="display: flex; flex-wrap: wrap">
     <a style="margin: 7px" href = "https://5kz1eg.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_ToDoList" width="370" src="./images/ToDoList.png"></a>
