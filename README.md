@@ -20,7 +20,7 @@
 <br>
 <br>
 
-## Alguns projetos Front-End 👇
+## Click nas imagens para vizualizar projetos frontend que eu fiz 👇
 
 <br>
 
