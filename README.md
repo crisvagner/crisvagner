@@ -26,9 +26,6 @@
 
 <div style="display: flex; flex-wrap: wrap">
     <a style="margin: 7px" href = "https://qc1lsk.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_StonezBots" width="370" height="170" src="./images/StonezBots.png"></a>
-</div>
-
-<div style="display: flex; flex-wrap: wrap">
     <a style="margin: 7px" href = "https://5kz1eg.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_ToDoList" width="370" src="./images/ToDoList.png"></a>
     <a style="margin: 7px" href = "https://1x1801.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_ScriptdeVendasWA" width="370" src="./images/ScriptdeVendasWA.png"></a>
     <a style="margin: 7px" href = "https://t19ryf.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_Stopwatch" width="370" src="./images/Stopwatch.png"></a>
