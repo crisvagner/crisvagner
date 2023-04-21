@@ -5,11 +5,11 @@
 <br>
 <br>
 
-<div>
+<!-- <div>
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=crisvagner&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
 </div>
 
-<br>
+<br> -->
 
 ## Tecnologias que eu uso em meus projetos
 
