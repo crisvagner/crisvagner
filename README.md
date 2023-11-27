@@ -2,14 +2,11 @@
 
 <!-- ## ▶️ Dê uma olhada em meu Portfólio  <a href = "https://meusite.com/my-portfolio"><img align="center" alt="Meu Portfólio" src="https://img.shields.io/badge/My_Portfolio-1572B6?style=for-the-badge&logo=amp&logoColor=white" /></a> -->
 
-<br>
-<br>
-
 <!-- <div>
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=crisvagner&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-</div>
+</div> -->
 
-<br> -->
+<br>
 
 ## Tecnologias que eu uso em meus projetos
 
@@ -18,19 +15,6 @@
 </div>
 
 <br>
-<br>
-
-## Click nas imagens para vizualizar projetos frontend que eu fiz 👇
-
-<br>
-
-<div style="display: flex; flex-wrap: wrap">
-    <a style="margin: 7px" href = "https://qc1lsk.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_StonezBots" width="370" height="170" src="./images/StonezBots.png"></a>
-    <a style="margin: 7px" href = "https://5kz1eg.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_ToDoList" width="370" src="./images/ToDoList.png"></a>
-    <a style="margin: 7px" href = "https://1x1801.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_ScriptdeVendasWA" width="370" src="./images/ScriptdeVendasWA.png"></a>
-    <a style="margin: 7px" href = "https://t19ryf.csb.app/" target="_blank"><img style="cursor: pointer" align="center" alt="Chris_Stopwatch" width="370" src="./images/Stopwatch.png"></a>
-</div>
-
 <br>
 
 ## Minhas Redes Sociais
