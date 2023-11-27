@@ -1,10 +1,8 @@
 ## Olá! Eu sou Crisvagner, programador Python e Javascript - Freelancer <img align="center" alt="cris-Js" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="cris-Python" height="22" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<!-- ## ▶️ Dê uma olhada em meu Portfólio  <a href = "https://meusite.com/my-portfolio"><img align="center" alt="Meu Portfólio" src="https://img.shields.io/badge/My_Portfolio-1572B6?style=for-the-badge&logo=amp&logoColor=white" /></a> -->
-
-<!-- <div>
+<div>
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=crisvagner&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-</div> -->
+</div>
 
 <br>
 
@@ -26,4 +24,4 @@
     </a>
 </div>
 
-![Snake animation](https://github.com/crisvagner/crisvagner/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/crisvagner/crisvagner/blob/output/github-contribution-grid-snake.svg) -->
